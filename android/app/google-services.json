@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "745747649499",
+    "project_id": "food-finder-f8117",
+    "storage_bucket": "food-finder-f8117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745747649499:android:63815220e52385d6ef4dfe",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745747649499-udmq39q0i8u69b2lem284ar6kadlilr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "59c5c9da46d4b5f128634e0f5712520de9554a3c"
+          }
+        },
+        {
+          "client_id": "745747649499-01rhel3tpngfiu984rd0c7h3marouniv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzwgp-RqC8sOPhFm8Tq6F2m8GE9dQiNZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745747649499-01rhel3tpngfiu984rd0c7h3marouniv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
